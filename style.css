@@ -1,0 +1,23 @@
+h1{
+	text-align:center;
+}
+div{
+	border-bottom: thick solid black;
+}
+.postbreak{
+	border-bottom: solid black;
+}
+#subt{
+	font-style: italic;
+
+}
+body {
+  color: black;
+  font-family: Arial;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+img{
+
+	width:100%;
+}
